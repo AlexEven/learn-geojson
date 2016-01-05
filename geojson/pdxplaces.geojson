@@ -388,5 +388,23 @@
         ]
       }
     }
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Rose Garden",
+        "Contributor": "Alex Even",
+        "Reason": "beautiful flowers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70541906356812,
+          45.51907528594103
+        ]
+      }
+    }
   ]
 }
